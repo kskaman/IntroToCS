@@ -1,0 +1,1237 @@
+The most populous cities in the U.S. from 1790 to 2018
+Population
+Source: U.S. Census
+
+31
+1790-01-01,Albany,New York,3498,Northeast
+1790-01-01,Alexandria,Virginia,2748,South
+1790-01-01,Baltimore,Maryland,13503,South
+1790-01-01,Beverly,Massachusetts,3290,Northeast
+1790-01-01,Boston,Massachusetts,18320,Northeast
+1790-01-01,Charleston,South Carolina,16359,South
+1790-01-01,Gilmanton,New Hampshire,2613,Northeast
+1790-01-01,Gloucester,Massachusetts,5317,Northeast
+1790-01-01,Hartford,Connecticut,2683,Northeast
+1790-01-01,Hudson,New York,2584,Northeast
+1790-01-01,Londonderry,New Hampshire,2622,Northeast
+1790-01-01,Marblehead,Massachusetts,5661,Northeast
+1790-01-01,Middleborough,Massachusetts,4526,Northeast
+1790-01-01,New Bedford,Massachusetts,3313,Northeast
+1790-01-01,New Haven,Connecticut,4487,Northeast
+1790-01-01,New York,New York,33131,Northeast
+1790-01-01,Newburyport,Massachusetts,4837,Northeast
+1790-01-01,Newport,Rhode Island,6716,Northeast
+1790-01-01,Norfolk,Virginia,2959,South
+1790-01-01,Northern Liberties,Pennsylvania,9913,Northeast
+1790-01-01,Petersburg,Virginia,2828,South
+1790-01-01,Philadelphia,Pennsylvania,28522,Northeast
+1790-01-01,Plymouth,Massachusetts,2995,Northeast
+1790-01-01,Portsmouth,New Hampshire,4720,Northeast
+1790-01-01,Providence,Rhode Island,6380,Northeast
+1790-01-01,Richmond,Virginia,3761,South
+1790-01-01,Rochester,New Hampshire,2857,Northeast
+1790-01-01,Salem,Massachusetts,7921,Northeast
+1790-01-01,Sherburne,Massachusetts,4555,Northeast
+1790-01-01,Southwark,Pennsylvania,5661,Northeast
+1790-01-01,Taunton,Massachusetts,3804,Northeast
+
+33
+1790-02-01,Albany,New York,3513,Northeast
+1790-02-01,Alexandria,District of Columbia,4971,South
+1790-02-01,Baltimore,Maryland,13611,South
+1790-02-01,Boston,Massachusetts,18375,Northeast
+1790-02-01,Charleston,South Carolina,16380,South
+1790-02-01,Georgetown,District of Columbia,2993,South
+1790-02-01,Gloucester,Massachusetts,5317,Northeast
+1790-02-01,Hartford,Connecticut,2690,Northeast
+1790-02-01,Hudson,New York,2593,Northeast
+1790-02-01,Lancaster,Pennsylvania,4292,Northeast
+1790-02-01,Marblehead,Massachusetts,5657,Northeast
+1790-02-01,Middleborough,Massachusetts,4525,Northeast
+1790-02-01,Nantucket,Massachusetts,5617,Northeast
+1790-02-01,New Bedford,Massachusetts,3322,Northeast
+1790-02-01,New Haven,Connecticut,4483,Northeast
+1790-02-01,New London,Connecticut,5150,Northeast
+1790-02-01,New York,New York,33359,Northeast
+1790-02-01,Newburyport,Massachusetts,4846,Northeast
+1790-02-01,Newport,Rhode Island,6716,Northeast
+1790-02-01,Norfolk,Virginia,2992,South
+1790-02-01,Northern Liberties,Pennsylvania,9920,Northeast
+1790-02-01,Petersburg,Virginia,2834,South
+1790-02-01,Philadelphia,Pennsylvania,28628,Northeast
+1790-02-01,Portland,Maine,3704,Northeast
+1790-02-01,Portsmouth,New Hampshire,4725,Northeast
+1790-02-01,Providence,Rhode Island,6390,Northeast
+1790-02-01,Richmond,Virginia,3777,South
+1790-02-01,Salem,Massachusetts,7934,Northeast
+1790-02-01,Savannah,Georgia,5146,South
+1790-02-01,Schenectady,New York,5289,Northeast
+1790-02-01,Southwark,Pennsylvania,5694,Northeast
+1790-02-01,Washington,District of Columbia,3210,South
+1790-02-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-03-01,Albany,New York,3528,Northeast
+1790-03-01,Alexandria,District of Columbia,4971,South
+1790-03-01,Baltimore,Maryland,13720,South
+1790-03-01,Boston,Massachusetts,18430,Northeast
+1790-03-01,Charleston,South Carolina,16400,South
+1790-03-01,Georgetown,District of Columbia,2993,South
+1790-03-01,Gloucester,Massachusetts,5317,Northeast
+1790-03-01,Hartford,Connecticut,2697,Northeast
+1790-03-01,Hudson,New York,2602,Northeast
+1790-03-01,Lancaster,Pennsylvania,4292,Northeast
+1790-03-01,Marblehead,Massachusetts,5654,Northeast
+1790-03-01,Middleborough,Massachusetts,4525,Northeast
+1790-03-01,Nantucket,Massachusetts,5617,Northeast
+1790-03-01,New Bedford,Massachusetts,3330,Northeast
+1790-03-01,New Haven,Connecticut,4480,Northeast
+1790-03-01,New London,Connecticut,5150,Northeast
+1790-03-01,New York,New York,33587,Northeast
+1790-03-01,Newburyport,Massachusetts,4855,Northeast
+1790-03-01,Newport,Rhode Island,6716,Northeast
+1790-03-01,Norfolk,Virginia,3025,South
+1790-03-01,Northern Liberties,Pennsylvania,9926,Northeast
+1790-03-01,Petersburg,Virginia,2840,South
+1790-03-01,Philadelphia,Pennsylvania,28734,Northeast
+1790-03-01,Portland,Maine,3704,Northeast
+1790-03-01,Portsmouth,New Hampshire,4730,Northeast
+1790-03-01,Providence,Rhode Island,6401,Northeast
+1790-03-01,Richmond,Virginia,3794,South
+1790-03-01,Salem,Massachusetts,7947,Northeast
+1790-03-01,Savannah,Georgia,5146,South
+1790-03-01,Schenectady,New York,5289,Northeast
+1790-03-01,Southwark,Pennsylvania,5727,Northeast
+1790-03-01,Washington,District of Columbia,3210,South
+1790-03-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-04-01,Albany,New York,3543,Northeast
+1790-04-01,Alexandria,District of Columbia,4971,South
+1790-04-01,Baltimore,Maryland,13828,South
+1790-04-01,Boston,Massachusetts,18485,Northeast
+1790-04-01,Charleston,South Carolina,16421,South
+1790-04-01,Georgetown,District of Columbia,2993,South
+1790-04-01,Gloucester,Massachusetts,5317,Northeast
+1790-04-01,Hartford,Connecticut,2704,Northeast
+1790-04-01,Hudson,New York,2611,Northeast
+1790-04-01,Lancaster,Pennsylvania,4292,Northeast
+1790-04-01,Marblehead,Massachusetts,5650,Northeast
+1790-04-01,Middleborough,Massachusetts,4524,Northeast
+1790-04-01,Nantucket,Massachusetts,5617,Northeast
+1790-04-01,New Bedford,Massachusetts,3339,Northeast
+1790-04-01,New Haven,Connecticut,4476,Northeast
+1790-04-01,New London,Connecticut,5150,Northeast
+1790-04-01,New York,New York,33816,Northeast
+1790-04-01,Newburyport,Massachusetts,4865,Northeast
+1790-04-01,Newport,Rhode Island,6717,Northeast
+1790-04-01,Norfolk,Virginia,3058,South
+1790-04-01,Northern Liberties,Pennsylvania,9933,Northeast
+1790-04-01,Petersburg,Virginia,2845,South
+1790-04-01,Philadelphia,Pennsylvania,28839,Northeast
+1790-04-01,Portland,Maine,3704,Northeast
+1790-04-01,Portsmouth,New Hampshire,4735,Northeast
+1790-04-01,Providence,Rhode Island,6411,Northeast
+1790-04-01,Richmond,Virginia,3810,South
+1790-04-01,Salem,Massachusetts,7959,Northeast
+1790-04-01,Savannah,Georgia,5146,South
+1790-04-01,Schenectady,New York,5289,Northeast
+1790-04-01,Southwark,Pennsylvania,5760,Northeast
+1790-04-01,Washington,District of Columbia,3210,South
+1790-04-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-05-01,Albany,New York,3558,Northeast
+1790-05-01,Alexandria,District of Columbia,4971,South
+1790-05-01,Baltimore,Maryland,13937,South
+1790-05-01,Boston,Massachusetts,18541,Northeast
+1790-05-01,Charleston,South Carolina,16441,South
+1790-05-01,Georgetown,District of Columbia,2993,South
+1790-05-01,Gloucester,Massachusetts,5317,Northeast
+1790-05-01,Hartford,Connecticut,2711,Northeast
+1790-05-01,Hudson,New York,2620,Northeast
+1790-05-01,Lancaster,Pennsylvania,4292,Northeast
+1790-05-01,Marblehead,Massachusetts,5646,Northeast
+1790-05-01,Middleborough,Massachusetts,4524,Northeast
+1790-05-01,Nantucket,Massachusetts,5617,Northeast
+1790-05-01,New Bedford,Massachusetts,3348,Northeast
+1790-05-01,New Haven,Connecticut,4472,Northeast
+1790-05-01,New London,Connecticut,5150,Northeast
+1790-05-01,New York,New York,34044,Northeast
+1790-05-01,Newburyport,Massachusetts,4874,Northeast
+1790-05-01,Newport,Rhode Island,6717,Northeast
+1790-05-01,Norfolk,Virginia,3091,South
+1790-05-01,Northern Liberties,Pennsylvania,9940,Northeast
+1790-05-01,Petersburg,Virginia,2851,South
+1790-05-01,Philadelphia,Pennsylvania,28945,Northeast
+1790-05-01,Portland,Maine,3704,Northeast
+1790-05-01,Portsmouth,New Hampshire,4741,Northeast
+1790-05-01,Providence,Rhode Island,6421,Northeast
+1790-05-01,Richmond,Virginia,3827,South
+1790-05-01,Salem,Massachusetts,7972,Northeast
+1790-05-01,Savannah,Georgia,5146,South
+1790-05-01,Schenectady,New York,5289,Northeast
+1790-05-01,Southwark,Pennsylvania,5793,Northeast
+1790-05-01,Washington,District of Columbia,3210,South
+1790-05-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-06-01,Albany,New York,3573,Northeast
+1790-06-01,Alexandria,District of Columbia,4971,South
+1790-06-01,Baltimore,Maryland,14045,South
+1790-06-01,Boston,Massachusetts,18596,Northeast
+1790-06-01,Charleston,South Carolina,16462,South
+1790-06-01,Georgetown,District of Columbia,2993,South
+1790-06-01,Gloucester,Massachusetts,5317,Northeast
+1790-06-01,Hartford,Connecticut,2718,Northeast
+1790-06-01,Hudson,New York,2629,Northeast
+1790-06-01,Lancaster,Pennsylvania,4292,Northeast
+1790-06-01,Marblehead,Massachusetts,5642,Northeast
+1790-06-01,Middleborough,Massachusetts,4523,Northeast
+1790-06-01,Nantucket,Massachusetts,5617,Northeast
+1790-06-01,New Bedford,Massachusetts,3357,Northeast
+1790-06-01,New Haven,Connecticut,4469,Northeast
+1790-06-01,New London,Connecticut,5150,Northeast
+1790-06-01,New York,New York,34272,Northeast
+1790-06-01,Newburyport,Massachusetts,4883,Northeast
+1790-06-01,Newport,Rhode Island,6717,Northeast
+1790-06-01,Norfolk,Virginia,3124,South
+1790-06-01,Northern Liberties,Pennsylvania,9947,Northeast
+1790-06-01,Petersburg,Virginia,2857,South
+1790-06-01,Philadelphia,Pennsylvania,29051,Northeast
+1790-06-01,Portland,Maine,3704,Northeast
+1790-06-01,Portsmouth,New Hampshire,4746,Northeast
+1790-06-01,Providence,Rhode Island,6431,Northeast
+1790-06-01,Richmond,Virginia,3843,South
+1790-06-01,Salem,Massachusetts,7985,Northeast
+1790-06-01,Savannah,Georgia,5146,South
+1790-06-01,Schenectady,New York,5289,Northeast
+1790-06-01,Southwark,Pennsylvania,5826,Northeast
+1790-06-01,Washington,District of Columbia,3210,South
+1790-06-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-07-01,Albany,New York,3588,Northeast
+1790-07-01,Alexandria,District of Columbia,4971,South
+1790-07-01,Baltimore,Maryland,14154,South
+1790-07-01,Boston,Massachusetts,18651,Northeast
+1790-07-01,Charleston,South Carolina,16482,South
+1790-07-01,Georgetown,District of Columbia,2993,South
+1790-07-01,Gloucester,Massachusetts,5317,Northeast
+1790-07-01,Hartford,Connecticut,2725,Northeast
+1790-07-01,Hudson,New York,2638,Northeast
+1790-07-01,Lancaster,Pennsylvania,4292,Northeast
+1790-07-01,Marblehead,Massachusetts,5639,Northeast
+1790-07-01,Middleborough,Massachusetts,4523,Northeast
+1790-07-01,Nantucket,Massachusetts,5617,Northeast
+1790-07-01,New Bedford,Massachusetts,3365,Northeast
+1790-07-01,New Haven,Connecticut,4465,Northeast
+1790-07-01,New London,Connecticut,5150,Northeast
+1790-07-01,New York,New York,34500,Northeast
+1790-07-01,Newburyport,Massachusetts,4892,Northeast
+1790-07-01,Newport,Rhode Island,6717,Northeast
+1790-07-01,Norfolk,Virginia,3157,South
+1790-07-01,Northern Liberties,Pennsylvania,9953,Northeast
+1790-07-01,Petersburg,Virginia,2863,South
+1790-07-01,Philadelphia,Pennsylvania,29157,Northeast
+1790-07-01,Portland,Maine,3704,Northeast
+1790-07-01,Portsmouth,New Hampshire,4751,Northeast
+1790-07-01,Providence,Rhode Island,6442,Northeast
+1790-07-01,Richmond,Virginia,3860,South
+1790-07-01,Salem,Massachusetts,7998,Northeast
+1790-07-01,Savannah,Georgia,5146,South
+1790-07-01,Schenectady,New York,5289,Northeast
+1790-07-01,Southwark,Pennsylvania,5859,Northeast
+1790-07-01,Washington,District of Columbia,3210,South
+1790-07-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-08-01,Albany,New York,3602,Northeast
+1790-08-01,Alexandria,District of Columbia,4971,South
+1790-08-01,Baltimore,Maryland,14262,South
+1790-08-01,Boston,Massachusetts,18706,Northeast
+1790-08-01,Charleston,South Carolina,16503,South
+1790-08-01,Georgetown,District of Columbia,2993,South
+1790-08-01,Gloucester,Massachusetts,5317,Northeast
+1790-08-01,Hartford,Connecticut,2732,Northeast
+1790-08-01,Hudson,New York,2647,Northeast
+1790-08-01,Lancaster,Pennsylvania,4292,Northeast
+1790-08-01,Marblehead,Massachusetts,5635,Northeast
+1790-08-01,Middleborough,Massachusetts,4522,Northeast
+1790-08-01,Nantucket,Massachusetts,5617,Northeast
+1790-08-01,New Bedford,Massachusetts,3374,Northeast
+1790-08-01,New Haven,Connecticut,4461,Northeast
+1790-08-01,New London,Connecticut,5150,Northeast
+1790-08-01,New York,New York,34728,Northeast
+1790-08-01,Newburyport,Massachusetts,4902,Northeast
+1790-08-01,Newport,Rhode Island,6717,Northeast
+1790-08-01,Norfolk,Virginia,3190,South
+1790-08-01,Northern Liberties,Pennsylvania,9960,Northeast
+1790-08-01,Petersburg,Virginia,2868,South
+1790-08-01,Philadelphia,Pennsylvania,29263,Northeast
+1790-08-01,Portland,Maine,3704,Northeast
+1790-08-01,Portsmouth,New Hampshire,4756,Northeast
+1790-08-01,Providence,Rhode Island,6452,Northeast
+1790-08-01,Richmond,Virginia,3876,South
+1790-08-01,Salem,Massachusetts,8011,Northeast
+1790-08-01,Savannah,Georgia,5146,South
+1790-08-01,Schenectady,New York,5289,Northeast
+1790-08-01,Southwark,Pennsylvania,5892,Northeast
+1790-08-01,Washington,District of Columbia,3210,South
+1790-08-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-09-01,Albany,New York,3617,Northeast
+1790-09-01,Alexandria,District of Columbia,4971,South
+1790-09-01,Baltimore,Maryland,14370,South
+1790-09-01,Boston,Massachusetts,18761,Northeast
+1790-09-01,Charleston,South Carolina,16523,South
+1790-09-01,Georgetown,District of Columbia,2993,South
+1790-09-01,Gloucester,Massachusetts,5317,Northeast
+1790-09-01,Hartford,Connecticut,2739,Northeast
+1790-09-01,Hudson,New York,2656,Northeast
+1790-09-01,Lancaster,Pennsylvania,4292,Northeast
+1790-09-01,Marblehead,Massachusetts,5631,Northeast
+1790-09-01,Middleborough,Massachusetts,4521,Northeast
+1790-09-01,Nantucket,Massachusetts,5617,Northeast
+1790-09-01,New Bedford,Massachusetts,3383,Northeast
+1790-09-01,New Haven,Connecticut,4458,Northeast
+1790-09-01,New London,Connecticut,5150,Northeast
+1790-09-01,New York,New York,34957,Northeast
+1790-09-01,Newburyport,Massachusetts,4911,Northeast
+1790-09-01,Newport,Rhode Island,6718,Northeast
+1790-09-01,Norfolk,Virginia,3223,South
+1790-09-01,Northern Liberties,Pennsylvania,9967,Northeast
+1790-09-01,Petersburg,Virginia,2874,South
+1790-09-01,Philadelphia,Pennsylvania,29369,Northeast
+1790-09-01,Portland,Maine,3704,Northeast
+1790-09-01,Portsmouth,New Hampshire,4761,Northeast
+1790-09-01,Providence,Rhode Island,6462,Northeast
+1790-09-01,Richmond,Virginia,3893,South
+1790-09-01,Salem,Massachusetts,8023,Northeast
+1790-09-01,Savannah,Georgia,5146,South
+1790-09-01,Schenectady,New York,5289,Northeast
+1790-09-01,Southwark,Pennsylvania,5925,Northeast
+1790-09-01,Washington,District of Columbia,3210,South
+1790-09-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-10-01,Albany,New York,3632,Northeast
+1790-10-01,Alexandria,District of Columbia,4971,South
+1790-10-01,Baltimore,Maryland,14479,South
+1790-10-01,Boston,Massachusetts,18816,Northeast
+1790-10-01,Charleston,South Carolina,16544,South
+1790-10-01,Georgetown,District of Columbia,2993,South
+1790-10-01,Gloucester,Massachusetts,5317,Northeast
+1790-10-01,Hartford,Connecticut,2746,Northeast
+1790-10-01,Hudson,New York,2665,Northeast
+1790-10-01,Lancaster,Pennsylvania,4292,Northeast
+1790-10-01,Marblehead,Massachusetts,5627,Northeast
+1790-10-01,Middleborough,Massachusetts,4521,Northeast
+1790-10-01,Nantucket,Massachusetts,5617,Northeast
+1790-10-01,New Bedford,Massachusetts,3392,Northeast
+1790-10-01,New Haven,Connecticut,4454,Northeast
+1790-10-01,New London,Connecticut,5150,Northeast
+1790-10-01,New York,New York,35185,Northeast
+1790-10-01,Newburyport,Massachusetts,4920,Northeast
+1790-10-01,Newport,Rhode Island,6718,Northeast
+1790-10-01,Norfolk,Virginia,3257,South
+1790-10-01,Northern Liberties,Pennsylvania,9973,Northeast
+1790-10-01,Petersburg,Virginia,2880,South
+1790-10-01,Philadelphia,Pennsylvania,29474,Northeast
+1790-10-01,Portland,Maine,3704,Northeast
+1790-10-01,Portsmouth,New Hampshire,4766,Northeast
+1790-10-01,Providence,Rhode Island,6473,Northeast
+1790-10-01,Richmond,Virginia,3909,South
+1790-10-01,Salem,Massachusetts,8036,Northeast
+1790-10-01,Savannah,Georgia,5146,South
+1790-10-01,Schenectady,New York,5289,Northeast
+1790-10-01,Southwark,Pennsylvania,5958,Northeast
+1790-10-01,Washington,District of Columbia,3210,South
+1790-10-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-11-01,Albany,New York,3647,Northeast
+1790-11-01,Alexandria,District of Columbia,4971,South
+1790-11-01,Baltimore,Maryland,14587,South
+1790-11-01,Boston,Massachusetts,18871,Northeast
+1790-11-01,Charleston,South Carolina,16564,South
+1790-11-01,Georgetown,District of Columbia,2993,South
+1790-11-01,Gloucester,Massachusetts,5317,Northeast
+1790-11-01,Hartford,Connecticut,2753,Northeast
+1790-11-01,Hudson,New York,2674,Northeast
+1790-11-01,Lancaster,Pennsylvania,4292,Northeast
+1790-11-01,Marblehead,Massachusetts,5624,Northeast
+1790-11-01,Middleborough,Massachusetts,4520,Northeast
+1790-11-01,Nantucket,Massachusetts,5617,Northeast
+1790-11-01,New Bedford,Massachusetts,3400,Northeast
+1790-11-01,New Haven,Connecticut,4451,Northeast
+1790-11-01,New London,Connecticut,5150,Northeast
+1790-11-01,New York,New York,35413,Northeast
+1790-11-01,Newburyport,Massachusetts,4929,Northeast
+1790-11-01,Newport,Rhode Island,6718,Northeast
+1790-11-01,Norfolk,Virginia,3290,South
+1790-11-01,Northern Liberties,Pennsylvania,9980,Northeast
+1790-11-01,Petersburg,Virginia,2886,South
+1790-11-01,Philadelphia,Pennsylvania,29580,Northeast
+1790-11-01,Portland,Maine,3704,Northeast
+1790-11-01,Portsmouth,New Hampshire,4772,Northeast
+1790-11-01,Providence,Rhode Island,6483,Northeast
+1790-11-01,Richmond,Virginia,3926,South
+1790-11-01,Salem,Massachusetts,8049,Northeast
+1790-11-01,Savannah,Georgia,5146,South
+1790-11-01,Schenectady,New York,5289,Northeast
+1790-11-01,Southwark,Pennsylvania,5991,Northeast
+1790-11-01,Washington,District of Columbia,3210,South
+1790-11-01,York,Pennsylvania,2503,Northeast
+
+33
+1790-12-01,Albany,New York,3662,Northeast
+1790-12-01,Alexandria,District of Columbia,4971,South
+1790-12-01,Baltimore,Maryland,14696,South
+1790-12-01,Boston,Massachusetts,18927,Northeast
+1790-12-01,Charleston,South Carolina,16585,South
+1790-12-01,Georgetown,District of Columbia,2993,South
+1790-12-01,Gloucester,Massachusetts,5317,Northeast
+1790-12-01,Hartford,Connecticut,2760,Northeast
+1790-12-01,Hudson,New York,2683,Northeast
+1790-12-01,Lancaster,Pennsylvania,4292,Northeast
+1790-12-01,Marblehead,Massachusetts,5620,Northeast
+1790-12-01,Middleborough,Massachusetts,4520,Northeast
+1790-12-01,Nantucket,Massachusetts,5617,Northeast
+1790-12-01,New Bedford,Massachusetts,3409,Northeast
+1790-12-01,New Haven,Connecticut,4447,Northeast
+1790-12-01,New London,Connecticut,5150,Northeast
+1790-12-01,New York,New York,35641,Northeast
+1790-12-01,Newburyport,Massachusetts,4939,Northeast
+1790-12-01,Newport,Rhode Island,6718,Northeast
+1790-12-01,Norfolk,Virginia,3323,South
+1790-12-01,Northern Liberties,Pennsylvania,9987,Northeast
+1790-12-01,Petersburg,Virginia,2892,South
+1790-12-01,Philadelphia,Pennsylvania,29686,Northeast
+1790-12-01,Portland,Maine,3704,Northeast
+1790-12-01,Portsmouth,New Hampshire,4777,Northeast
+1790-12-01,Providence,Rhode Island,6493,Northeast
+1790-12-01,Richmond,Virginia,3942,South
+1790-12-01,Salem,Massachusetts,8062,Northeast
+1790-12-01,Savannah,Georgia,5146,South
+1790-12-01,Schenectady,New York,5289,Northeast
+1790-12-01,Southwark,Pennsylvania,6024,Northeast
+1790-12-01,Washington,District of Columbia,3210,South
+1790-12-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-01-01,Albany,New York,3677,Northeast
+1791-01-01,Alexandria,District of Columbia,4971,South
+1791-01-01,Baltimore,Maryland,14804,South
+1791-01-01,Boston,Massachusetts,18982,Northeast
+1791-01-01,Charleston,South Carolina,16605,South
+1791-01-01,Georgetown,District of Columbia,2993,South
+1791-01-01,Gloucester,Massachusetts,5317,Northeast
+1791-01-01,Hartford,Connecticut,2767,Northeast
+1791-01-01,Hudson,New York,2692,Northeast
+1791-01-01,Lancaster,Pennsylvania,4292,Northeast
+1791-01-01,Marblehead,Massachusetts,5616,Northeast
+1791-01-01,Middleborough,Massachusetts,4519,Northeast
+1791-01-01,Nantucket,Massachusetts,5617,Northeast
+1791-01-01,New Bedford,Massachusetts,3418,Northeast
+1791-01-01,New Haven,Connecticut,4443,Northeast
+1791-01-01,New London,Connecticut,5150,Northeast
+1791-01-01,New York,New York,35869,Northeast
+1791-01-01,Newburyport,Massachusetts,4948,Northeast
+1791-01-01,Newport,Rhode Island,6718,Northeast
+1791-01-01,Norfolk,Virginia,3356,South
+1791-01-01,Northern Liberties,Pennsylvania,9993,Northeast
+1791-01-01,Petersburg,Virginia,2897,South
+1791-01-01,Philadelphia,Pennsylvania,29792,Northeast
+1791-01-01,Portland,Maine,3704,Northeast
+1791-01-01,Portsmouth,New Hampshire,4782,Northeast
+1791-01-01,Providence,Rhode Island,6503,Northeast
+1791-01-01,Richmond,Virginia,3959,South
+1791-01-01,Salem,Massachusetts,8075,Northeast
+1791-01-01,Savannah,Georgia,5146,South
+1791-01-01,Schenectady,New York,5289,Northeast
+1791-01-01,Southwark,Pennsylvania,6057,Northeast
+1791-01-01,Washington,District of Columbia,3210,South
+1791-01-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-02-01,Albany,New York,3692,Northeast
+1791-02-01,Alexandria,District of Columbia,4971,South
+1791-02-01,Baltimore,Maryland,14913,South
+1791-02-01,Boston,Massachusetts,19037,Northeast
+1791-02-01,Charleston,South Carolina,16626,South
+1791-02-01,Georgetown,District of Columbia,2993,South
+1791-02-01,Gloucester,Massachusetts,5317,Northeast
+1791-02-01,Hartford,Connecticut,2774,Northeast
+1791-02-01,Hudson,New York,2701,Northeast
+1791-02-01,Lancaster,Pennsylvania,4292,Northeast
+1791-02-01,Marblehead,Massachusetts,5612,Northeast
+1791-02-01,Middleborough,Massachusetts,4519,Northeast
+1791-02-01,Nantucket,Massachusetts,5617,Northeast
+1791-02-01,New Bedford,Massachusetts,3427,Northeast
+1791-02-01,New Haven,Connecticut,4440,Northeast
+1791-02-01,New London,Connecticut,5150,Northeast
+1791-02-01,New York,New York,36098,Northeast
+1791-02-01,Newburyport,Massachusetts,4957,Northeast
+1791-02-01,Newport,Rhode Island,6718,Northeast
+1791-02-01,Norfolk,Virginia,3389,South
+1791-02-01,Northern Liberties,Pennsylvania,10000,Northeast
+1791-02-01,Petersburg,Virginia,2903,South
+1791-02-01,Philadelphia,Pennsylvania,29898,Northeast
+1791-02-01,Portland,Maine,3704,Northeast
+1791-02-01,Portsmouth,New Hampshire,4787,Northeast
+1791-02-01,Providence,Rhode Island,6514,Northeast
+1791-02-01,Richmond,Virginia,3975,South
+1791-02-01,Salem,Massachusetts,8087,Northeast
+1791-02-01,Savannah,Georgia,5146,South
+1791-02-01,Schenectady,New York,5289,Northeast
+1791-02-01,Southwark,Pennsylvania,6090,Northeast
+1791-02-01,Washington,District of Columbia,3210,South
+1791-02-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-03-01,Albany,New York,3707,Northeast
+1791-03-01,Alexandria,District of Columbia,4971,South
+1791-03-01,Baltimore,Maryland,15021,South
+1791-03-01,Boston,Massachusetts,19092,Northeast
+1791-03-01,Charleston,South Carolina,16647,South
+1791-03-01,Georgetown,District of Columbia,2993,South
+1791-03-01,Gloucester,Massachusetts,5317,Northeast
+1791-03-01,Hartford,Connecticut,2781,Northeast
+1791-03-01,Hudson,New York,2710,Northeast
+1791-03-01,Lancaster,Pennsylvania,4292,Northeast
+1791-03-01,Marblehead,Massachusetts,5609,Northeast
+1791-03-01,Middleborough,Massachusetts,4518,Northeast
+1791-03-01,Nantucket,Massachusetts,5617,Northeast
+1791-03-01,New Bedford,Massachusetts,3435,Northeast
+1791-03-01,New Haven,Connecticut,4436,Northeast
+1791-03-01,New London,Connecticut,5150,Northeast
+1791-03-01,New York,New York,36326,Northeast
+1791-03-01,Newburyport,Massachusetts,4966,Northeast
+1791-03-01,Newport,Rhode Island,6719,Northeast
+1791-03-01,Norfolk,Virginia,3422,South
+1791-03-01,Northern Liberties,Pennsylvania,10007,Northeast
+1791-03-01,Petersburg,Virginia,2909,South
+1791-03-01,Philadelphia,Pennsylvania,30003,Northeast
+1791-03-01,Portland,Maine,3704,Northeast
+1791-03-01,Portsmouth,New Hampshire,4792,Northeast
+1791-03-01,Providence,Rhode Island,6524,Northeast
+1791-03-01,Richmond,Virginia,3992,South
+1791-03-01,Salem,Massachusetts,8100,Northeast
+1791-03-01,Savannah,Georgia,5146,South
+1791-03-01,Schenectady,New York,5289,Northeast
+1791-03-01,Southwark,Pennsylvania,6123,Northeast
+1791-03-01,Washington,District of Columbia,3210,South
+1791-03-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-04-01,Albany,New York,3722,Northeast
+1791-04-01,Alexandria,District of Columbia,4971,South
+1791-04-01,Baltimore,Maryland,15129,South
+1791-04-01,Boston,Massachusetts,19147,Northeast
+1791-04-01,Charleston,South Carolina,16667,South
+1791-04-01,Georgetown,District of Columbia,2993,South
+1791-04-01,Gloucester,Massachusetts,5317,Northeast
+1791-04-01,Hartford,Connecticut,2788,Northeast
+1791-04-01,Hudson,New York,2719,Northeast
+1791-04-01,Lancaster,Pennsylvania,4292,Northeast
+1791-04-01,Marblehead,Massachusetts,5605,Northeast
+1791-04-01,Middleborough,Massachusetts,4518,Northeast
+1791-04-01,Nantucket,Massachusetts,5617,Northeast
+1791-04-01,New Bedford,Massachusetts,3444,Northeast
+1791-04-01,New Haven,Connecticut,4432,Northeast
+1791-04-01,New London,Connecticut,5150,Northeast
+1791-04-01,New York,New York,36554,Northeast
+1791-04-01,Newburyport,Massachusetts,4976,Northeast
+1791-04-01,Newport,Rhode Island,6719,Northeast
+1791-04-01,Norfolk,Virginia,3455,South
+1791-04-01,Northern Liberties,Pennsylvania,10014,Northeast
+1791-04-01,Petersburg,Virginia,2915,South
+1791-04-01,Philadelphia,Pennsylvania,30109,Northeast
+1791-04-01,Portland,Maine,3704,Northeast
+1791-04-01,Portsmouth,New Hampshire,4797,Northeast
+1791-04-01,Providence,Rhode Island,6534,Northeast
+1791-04-01,Richmond,Virginia,4008,South
+1791-04-01,Salem,Massachusetts,8113,Northeast
+1791-04-01,Savannah,Georgia,5146,South
+1791-04-01,Schenectady,New York,5289,Northeast
+1791-04-01,Southwark,Pennsylvania,6156,Northeast
+1791-04-01,Washington,District of Columbia,3210,South
+1791-04-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-05-01,Albany,New York,3737,Northeast
+1791-05-01,Alexandria,District of Columbia,4971,South
+1791-05-01,Baltimore,Maryland,15238,South
+1791-05-01,Boston,Massachusetts,19202,Northeast
+1791-05-01,Charleston,South Carolina,16688,South
+1791-05-01,Georgetown,District of Columbia,2993,South
+1791-05-01,Gloucester,Massachusetts,5316,Northeast
+1791-05-01,Hartford,Connecticut,2795,Northeast
+1791-05-01,Hudson,New York,2728,Northeast
+1791-05-01,Lancaster,Pennsylvania,4292,Northeast
+1791-05-01,Marblehead,Massachusetts,5601,Northeast
+1791-05-01,Middleborough,Massachusetts,4517,Northeast
+1791-05-01,Nantucket,Massachusetts,5617,Northeast
+1791-05-01,New Bedford,Massachusetts,3453,Northeast
+1791-05-01,New Haven,Connecticut,4429,Northeast
+1791-05-01,New London,Connecticut,5150,Northeast
+1791-05-01,New York,New York,36782,Northeast
+1791-05-01,Newburyport,Massachusetts,4985,Northeast
+1791-05-01,Newport,Rhode Island,6719,Northeast
+1791-05-01,Norfolk,Virginia,3488,South
+1791-05-01,Northern Liberties,Pennsylvania,10020,Northeast
+1791-05-01,Petersburg,Virginia,2920,South
+1791-05-01,Philadelphia,Pennsylvania,30215,Northeast
+1791-05-01,Portland,Maine,3704,Northeast
+1791-05-01,Portsmouth,New Hampshire,4803,Northeast
+1791-05-01,Providence,Rhode Island,6545,Northeast
+1791-05-01,Richmond,Virginia,4024,South
+1791-05-01,Salem,Massachusetts,8126,Northeast
+1791-05-01,Savannah,Georgia,5146,South
+1791-05-01,Schenectady,New York,5289,Northeast
+1791-05-01,Southwark,Pennsylvania,6189,Northeast
+1791-05-01,Washington,District of Columbia,3210,South
+1791-05-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-06-01,Albany,New York,3752,Northeast
+1791-06-01,Alexandria,District of Columbia,4971,South
+1791-06-01,Baltimore,Maryland,15346,South
+1791-06-01,Boston,Massachusetts,19257,Northeast
+1791-06-01,Charleston,South Carolina,16708,South
+1791-06-01,Georgetown,District of Columbia,2993,South
+1791-06-01,Gloucester,Massachusetts,5316,Northeast
+1791-06-01,Hartford,Connecticut,2802,Northeast
+1791-06-01,Hudson,New York,2737,Northeast
+1791-06-01,Lancaster,Pennsylvania,4292,Northeast
+1791-06-01,Marblehead,Massachusetts,5597,Northeast
+1791-06-01,Middleborough,Massachusetts,4516,Northeast
+1791-06-01,Nantucket,Massachusetts,5617,Northeast
+1791-06-01,New Bedford,Massachusetts,3461,Northeast
+1791-06-01,New Haven,Connecticut,4425,Northeast
+1791-06-01,New London,Connecticut,5150,Northeast
+1791-06-01,New York,New York,37010,Northeast
+1791-06-01,Newburyport,Massachusetts,4994,Northeast
+1791-06-01,Newport,Rhode Island,6719,Northeast
+1791-06-01,Norfolk,Virginia,3521,South
+1791-06-01,Northern Liberties,Pennsylvania,10027,Northeast
+1791-06-01,Petersburg,Virginia,2926,South
+1791-06-01,Philadelphia,Pennsylvania,30321,Northeast
+1791-06-01,Portland,Maine,3704,Northeast
+1791-06-01,Portsmouth,New Hampshire,4808,Northeast
+1791-06-01,Providence,Rhode Island,6555,Northeast
+1791-06-01,Richmond,Virginia,4041,South
+1791-06-01,Salem,Massachusetts,8139,Northeast
+1791-06-01,Savannah,Georgia,5146,South
+1791-06-01,Schenectady,New York,5289,Northeast
+1791-06-01,Southwark,Pennsylvania,6222,Northeast
+1791-06-01,Washington,District of Columbia,3210,South
+1791-06-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-07-01,Albany,New York,3767,Northeast
+1791-07-01,Alexandria,District of Columbia,4971,South
+1791-07-01,Baltimore,Maryland,15455,South
+1791-07-01,Boston,Massachusetts,19313,Northeast
+1791-07-01,Charleston,South Carolina,16729,South
+1791-07-01,Georgetown,District of Columbia,2993,South
+1791-07-01,Gloucester,Massachusetts,5316,Northeast
+1791-07-01,Hartford,Connecticut,2809,Northeast
+1791-07-01,Hudson,New York,2746,Northeast
+1791-07-01,Lancaster,Pennsylvania,4292,Northeast
+1791-07-01,Marblehead,Massachusetts,5594,Northeast
+1791-07-01,Middleborough,Massachusetts,4516,Northeast
+1791-07-01,Nantucket,Massachusetts,5617,Northeast
+1791-07-01,New Bedford,Massachusetts,3470,Northeast
+1791-07-01,New Haven,Connecticut,4421,Northeast
+1791-07-01,New London,Connecticut,5150,Northeast
+1791-07-01,New York,New York,37239,Northeast
+1791-07-01,Newburyport,Massachusetts,5003,Northeast
+1791-07-01,Newport,Rhode Island,6719,Northeast
+1791-07-01,Norfolk,Virginia,3554,South
+1791-07-01,Northern Liberties,Pennsylvania,10034,Northeast
+1791-07-01,Petersburg,Virginia,2932,South
+1791-07-01,Philadelphia,Pennsylvania,30427,Northeast
+1791-07-01,Portland,Maine,3704,Northeast
+1791-07-01,Portsmouth,New Hampshire,4813,Northeast
+1791-07-01,Providence,Rhode Island,6565,Northeast
+1791-07-01,Richmond,Virginia,4057,South
+1791-07-01,Salem,Massachusetts,8151,Northeast
+1791-07-01,Savannah,Georgia,5146,South
+1791-07-01,Schenectady,New York,5289,Northeast
+1791-07-01,Southwark,Pennsylvania,6255,Northeast
+1791-07-01,Washington,District of Columbia,3210,South
+1791-07-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-08-01,Albany,New York,3782,Northeast
+1791-08-01,Alexandria,District of Columbia,4971,South
+1791-08-01,Baltimore,Maryland,15563,South
+1791-08-01,Boston,Massachusetts,19368,Northeast
+1791-08-01,Charleston,South Carolina,16749,South
+1791-08-01,Georgetown,District of Columbia,2993,South
+1791-08-01,Gloucester,Massachusetts,5316,Northeast
+1791-08-01,Hartford,Connecticut,2816,Northeast
+1791-08-01,Hudson,New York,2755,Northeast
+1791-08-01,Lancaster,Pennsylvania,4292,Northeast
+1791-08-01,Marblehead,Massachusetts,5590,Northeast
+1791-08-01,Middleborough,Massachusetts,4515,Northeast
+1791-08-01,Nantucket,Massachusetts,5617,Northeast
+1791-08-01,New Bedford,Massachusetts,3479,Northeast
+1791-08-01,New Haven,Connecticut,4418,Northeast
+1791-08-01,New London,Connecticut,5150,Northeast
+1791-08-01,New York,New York,37467,Northeast
+1791-08-01,Newburyport,Massachusetts,5013,Northeast
+1791-08-01,Newport,Rhode Island,6720,Northeast
+1791-08-01,Norfolk,Virginia,3587,South
+1791-08-01,Northern Liberties,Pennsylvania,10040,Northeast
+1791-08-01,Petersburg,Virginia,2938,South
+1791-08-01,Philadelphia,Pennsylvania,30533,Northeast
+1791-08-01,Portland,Maine,3704,Northeast
+1791-08-01,Portsmouth,New Hampshire,4818,Northeast
+1791-08-01,Providence,Rhode Island,6575,Northeast
+1791-08-01,Richmond,Virginia,4074,South
+1791-08-01,Salem,Massachusetts,8164,Northeast
+1791-08-01,Savannah,Georgia,5146,South
+1791-08-01,Schenectady,New York,5289,Northeast
+1791-08-01,Southwark,Pennsylvania,6288,Northeast
+1791-08-01,Washington,District of Columbia,3210,South
+1791-08-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-09-01,Albany,New York,3796,Northeast
+1791-09-01,Alexandria,District of Columbia,4971,South
+1791-09-01,Baltimore,Maryland,15671,South
+1791-09-01,Boston,Massachusetts,19423,Northeast
+1791-09-01,Charleston,South Carolina,16770,South
+1791-09-01,Georgetown,District of Columbia,2993,South
+1791-09-01,Gloucester,Massachusetts,5316,Northeast
+1791-09-01,Hartford,Connecticut,2823,Northeast
+1791-09-01,Hudson,New York,2764,Northeast
+1791-09-01,Lancaster,Pennsylvania,4292,Northeast
+1791-09-01,Marblehead,Massachusetts,5586,Northeast
+1791-09-01,Middleborough,Massachusetts,4515,Northeast
+1791-09-01,Nantucket,Massachusetts,5617,Northeast
+1791-09-01,New Bedford,Massachusetts,3488,Northeast
+1791-09-01,New Haven,Connecticut,4414,Northeast
+1791-09-01,New London,Connecticut,5150,Northeast
+1791-09-01,New York,New York,37695,Northeast
+1791-09-01,Newburyport,Massachusetts,5022,Northeast
+1791-09-01,Newport,Rhode Island,6720,Northeast
+1791-09-01,Norfolk,Virginia,3620,South
+1791-09-01,Northern Liberties,Pennsylvania,10047,Northeast
+1791-09-01,Petersburg,Virginia,2943,South
+1791-09-01,Philadelphia,Pennsylvania,30638,Northeast
+1791-09-01,Portland,Maine,3704,Northeast
+1791-09-01,Portsmouth,New Hampshire,4823,Northeast
+1791-09-01,Providence,Rhode Island,6586,Northeast
+1791-09-01,Richmond,Virginia,4090,South
+1791-09-01,Salem,Massachusetts,8177,Northeast
+1791-09-01,Savannah,Georgia,5146,South
+1791-09-01,Schenectady,New York,5289,Northeast
+1791-09-01,Southwark,Pennsylvania,6321,Northeast
+1791-09-01,Washington,District of Columbia,3210,South
+1791-09-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-10-01,Albany,New York,3811,Northeast
+1791-10-01,Alexandria,District of Columbia,4971,South
+1791-10-01,Baltimore,Maryland,15780,South
+1791-10-01,Boston,Massachusetts,19478,Northeast
+1791-10-01,Charleston,South Carolina,16790,South
+1791-10-01,Georgetown,District of Columbia,2993,South
+1791-10-01,Gloucester,Massachusetts,5316,Northeast
+1791-10-01,Hartford,Connecticut,2830,Northeast
+1791-10-01,Hudson,New York,2773,Northeast
+1791-10-01,Lancaster,Pennsylvania,4292,Northeast
+1791-10-01,Marblehead,Massachusetts,5582,Northeast
+1791-10-01,Middleborough,Massachusetts,4514,Northeast
+1791-10-01,Nantucket,Massachusetts,5617,Northeast
+1791-10-01,New Bedford,Massachusetts,3496,Northeast
+1791-10-01,New Haven,Connecticut,4410,Northeast
+1791-10-01,New London,Connecticut,5150,Northeast
+1791-10-01,New York,New York,37923,Northeast
+1791-10-01,Newburyport,Massachusetts,5031,Northeast
+1791-10-01,Newport,Rhode Island,6720,Northeast
+1791-10-01,Norfolk,Virginia,3653,South
+1791-10-01,Northern Liberties,Pennsylvania,10054,Northeast
+1791-10-01,Petersburg,Virginia,2949,South
+1791-10-01,Philadelphia,Pennsylvania,30744,Northeast
+1791-10-01,Portland,Maine,3704,Northeast
+1791-10-01,Portsmouth,New Hampshire,4828,Northeast
+1791-10-01,Providence,Rhode Island,6596,Northeast
+1791-10-01,Richmond,Virginia,4107,South
+1791-10-01,Salem,Massachusetts,8190,Northeast
+1791-10-01,Savannah,Georgia,5146,South
+1791-10-01,Schenectady,New York,5289,Northeast
+1791-10-01,Southwark,Pennsylvania,6354,Northeast
+1791-10-01,Washington,District of Columbia,3210,South
+1791-10-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-11-01,Albany,New York,3826,Northeast
+1791-11-01,Alexandria,District of Columbia,4971,South
+1791-11-01,Baltimore,Maryland,15888,South
+1791-11-01,Boston,Massachusetts,19533,Northeast
+1791-11-01,Charleston,South Carolina,16811,South
+1791-11-01,Georgetown,District of Columbia,2993,South
+1791-11-01,Gloucester,Massachusetts,5316,Northeast
+1791-11-01,Hartford,Connecticut,2837,Northeast
+1791-11-01,Hudson,New York,2782,Northeast
+1791-11-01,Lancaster,Pennsylvania,4292,Northeast
+1791-11-01,Marblehead,Massachusetts,5579,Northeast
+1791-11-01,Middleborough,Massachusetts,4514,Northeast
+1791-11-01,Nantucket,Massachusetts,5617,Northeast
+1791-11-01,New Bedford,Massachusetts,3505,Northeast
+1791-11-01,New Haven,Connecticut,4407,Northeast
+1791-11-01,New London,Connecticut,5150,Northeast
+1791-11-01,New York,New York,38151,Northeast
+1791-11-01,Newburyport,Massachusetts,5040,Northeast
+1791-11-01,Newport,Rhode Island,6720,Northeast
+1791-11-01,Norfolk,Virginia,3686,South
+1791-11-01,Northern Liberties,Pennsylvania,10061,Northeast
+1791-11-01,Petersburg,Virginia,2955,South
+1791-11-01,Philadelphia,Pennsylvania,30850,Northeast
+1791-11-01,Portland,Maine,3704,Northeast
+1791-11-01,Portsmouth,New Hampshire,4833,Northeast
+1791-11-01,Providence,Rhode Island,6606,Northeast
+1791-11-01,Richmond,Virginia,4123,South
+1791-11-01,Salem,Massachusetts,8203,Northeast
+1791-11-01,Savannah,Georgia,5146,South
+1791-11-01,Schenectady,New York,5289,Northeast
+1791-11-01,Southwark,Pennsylvania,6387,Northeast
+1791-11-01,Washington,District of Columbia,3210,South
+1791-11-01,York,Pennsylvania,2503,Northeast
+
+33
+1791-12-01,Albany,New York,3841,Northeast
+1791-12-01,Alexandria,District of Columbia,4971,South
+1791-12-01,Baltimore,Maryland,15997,South
+1791-12-01,Boston,Massachusetts,19588,Northeast
+1791-12-01,Charleston,South Carolina,16831,South
+1791-12-01,Georgetown,District of Columbia,2993,South
+1791-12-01,Gloucester,Massachusetts,5316,Northeast
+1791-12-01,Hartford,Connecticut,2844,Northeast
+1791-12-01,Hudson,New York,2791,Northeast
+1791-12-01,Lancaster,Pennsylvania,4292,Northeast
+1791-12-01,Marblehead,Massachusetts,5575,Northeast
+1791-12-01,Middleborough,Massachusetts,4513,Northeast
+1791-12-01,Nantucket,Massachusetts,5617,Northeast
+1791-12-01,New Bedford,Massachusetts,3514,Northeast
+1791-12-01,New Haven,Connecticut,4403,Northeast
+1791-12-01,New London,Connecticut,5150,Northeast
+1791-12-01,New York,New York,38380,Northeast
+1791-12-01,Newburyport,Massachusetts,5050,Northeast
+1791-12-01,Newport,Rhode Island,6720,Northeast
+1791-12-01,Norfolk,Virginia,3719,South
+1791-12-01,Northern Liberties,Pennsylvania,10067,Northeast
+1791-12-01,Petersburg,Virginia,2961,South
+1791-12-01,Philadelphia,Pennsylvania,30956,Northeast
+1791-12-01,Portland,Maine,3704,Northeast
+1791-12-01,Portsmouth,New Hampshire,4839,Northeast
+1791-12-01,Providence,Rhode Island,6617,Northeast
+1791-12-01,Richmond,Virginia,4140,South
+1791-12-01,Salem,Massachusetts,8215,Northeast
+1791-12-01,Savannah,Georgia,5146,South
+1791-12-01,Schenectady,New York,5289,Northeast
+1791-12-01,Southwark,Pennsylvania,6420,Northeast
+1791-12-01,Washington,District of Columbia,3210,South
+1791-12-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-01-01,Albany,New York,3856,Northeast
+1792-01-01,Alexandria,District of Columbia,4971,South
+1792-01-01,Baltimore,Maryland,16105,South
+1792-01-01,Boston,Massachusetts,19643,Northeast
+1792-01-01,Charleston,South Carolina,16852,South
+1792-01-01,Georgetown,District of Columbia,2993,South
+1792-01-01,Gloucester,Massachusetts,5316,Northeast
+1792-01-01,Hartford,Connecticut,2851,Northeast
+1792-01-01,Hudson,New York,2800,Northeast
+1792-01-01,Lancaster,Pennsylvania,4292,Northeast
+1792-01-01,Marblehead,Massachusetts,5571,Northeast
+1792-01-01,Middleborough,Massachusetts,4512,Northeast
+1792-01-01,Nantucket,Massachusetts,5617,Northeast
+1792-01-01,New Bedford,Massachusetts,3523,Northeast
+1792-01-01,New Haven,Connecticut,4399,Northeast
+1792-01-01,New London,Connecticut,5150,Northeast
+1792-01-01,New York,New York,38608,Northeast
+1792-01-01,Newburyport,Massachusetts,5059,Northeast
+1792-01-01,Newport,Rhode Island,6721,Northeast
+1792-01-01,Norfolk,Virginia,3752,South
+1792-01-01,Northern Liberties,Pennsylvania,10074,Northeast
+1792-01-01,Petersburg,Virginia,2967,South
+1792-01-01,Philadelphia,Pennsylvania,31062,Northeast
+1792-01-01,Portland,Maine,3704,Northeast
+1792-01-01,Portsmouth,New Hampshire,4844,Northeast
+1792-01-01,Providence,Rhode Island,6627,Northeast
+1792-01-01,Richmond,Virginia,4156,South
+1792-01-01,Salem,Massachusetts,8228,Northeast
+1792-01-01,Savannah,Georgia,5146,South
+1792-01-01,Schenectady,New York,5289,Northeast
+1792-01-01,Southwark,Pennsylvania,6453,Northeast
+1792-01-01,Washington,District of Columbia,3210,South
+1792-01-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-02-01,Albany,New York,3871,Northeast
+1792-02-01,Alexandria,District of Columbia,4971,South
+1792-02-01,Baltimore,Maryland,16214,South
+1792-02-01,Boston,Massachusetts,19699,Northeast
+1792-02-01,Charleston,South Carolina,16873,South
+1792-02-01,Georgetown,District of Columbia,2993,South
+1792-02-01,Gloucester,Massachusetts,5316,Northeast
+1792-02-01,Hartford,Connecticut,2858,Northeast
+1792-02-01,Hudson,New York,2809,Northeast
+1792-02-01,Lancaster,Pennsylvania,4292,Northeast
+1792-02-01,Marblehead,Massachusetts,5567,Northeast
+1792-02-01,Middleborough,Massachusetts,4512,Northeast
+1792-02-01,Nantucket,Massachusetts,5617,Northeast
+1792-02-01,New Bedford,Massachusetts,3531,Northeast
+1792-02-01,New Haven,Connecticut,4396,Northeast
+1792-02-01,New London,Connecticut,5150,Northeast
+1792-02-01,New York,New York,38836,Northeast
+1792-02-01,Newburyport,Massachusetts,5068,Northeast
+1792-02-01,Newport,Rhode Island,6721,Northeast
+1792-02-01,Norfolk,Virginia,3785,South
+1792-02-01,Northern Liberties,Pennsylvania,10081,Northeast
+1792-02-01,Petersburg,Virginia,2972,South
+1792-02-01,Philadelphia,Pennsylvania,31167,Northeast
+1792-02-01,Portland,Maine,3704,Northeast
+1792-02-01,Portsmouth,New Hampshire,4849,Northeast
+1792-02-01,Providence,Rhode Island,6637,Northeast
+1792-02-01,Richmond,Virginia,4173,South
+1792-02-01,Salem,Massachusetts,8241,Northeast
+1792-02-01,Savannah,Georgia,5146,South
+1792-02-01,Schenectady,New York,5289,Northeast
+1792-02-01,Southwark,Pennsylvania,6486,Northeast
+1792-02-01,Washington,District of Columbia,3210,South
+1792-02-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-03-01,Albany,New York,3886,Northeast
+1792-03-01,Alexandria,District of Columbia,4971,South
+1792-03-01,Baltimore,Maryland,16322,South
+1792-03-01,Boston,Massachusetts,19754,Northeast
+1792-03-01,Charleston,South Carolina,16893,South
+1792-03-01,Georgetown,District of Columbia,2993,South
+1792-03-01,Gloucester,Massachusetts,5316,Northeast
+1792-03-01,Hartford,Connecticut,2865,Northeast
+1792-03-01,Hudson,New York,2818,Northeast
+1792-03-01,Lancaster,Pennsylvania,4292,Northeast
+1792-03-01,Marblehead,Massachusetts,5564,Northeast
+1792-03-01,Middleborough,Massachusetts,4511,Northeast
+1792-03-01,Nantucket,Massachusetts,5617,Northeast
+1792-03-01,New Bedford,Massachusetts,3540,Northeast
+1792-03-01,New Haven,Connecticut,4392,Northeast
+1792-03-01,New London,Connecticut,5150,Northeast
+1792-03-01,New York,New York,39064,Northeast
+1792-03-01,Newburyport,Massachusetts,5077,Northeast
+1792-03-01,Newport,Rhode Island,6721,Northeast
+1792-03-01,Norfolk,Virginia,3819,South
+1792-03-01,Northern Liberties,Pennsylvania,10087,Northeast
+1792-03-01,Petersburg,Virginia,2978,South
+1792-03-01,Philadelphia,Pennsylvania,31273,Northeast
+1792-03-01,Portland,Maine,3704,Northeast
+1792-03-01,Portsmouth,New Hampshire,4854,Northeast
+1792-03-01,Providence,Rhode Island,6647,Northeast
+1792-03-01,Richmond,Virginia,4189,South
+1792-03-01,Salem,Massachusetts,8254,Northeast
+1792-03-01,Savannah,Georgia,5146,South
+1792-03-01,Schenectady,New York,5289,Northeast
+1792-03-01,Southwark,Pennsylvania,6519,Northeast
+1792-03-01,Washington,District of Columbia,3210,South
+1792-03-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-04-01,Albany,New York,3901,Northeast
+1792-04-01,Alexandria,District of Columbia,4971,South
+1792-04-01,Baltimore,Maryland,16430,South
+1792-04-01,Boston,Massachusetts,19809,Northeast
+1792-04-01,Charleston,South Carolina,16914,South
+1792-04-01,Georgetown,District of Columbia,2993,South
+1792-04-01,Gloucester,Massachusetts,5316,Northeast
+1792-04-01,Hartford,Connecticut,2872,Northeast
+1792-04-01,Hudson,New York,2827,Northeast
+1792-04-01,Lancaster,Pennsylvania,4292,Northeast
+1792-04-01,Marblehead,Massachusetts,5560,Northeast
+1792-04-01,Middleborough,Massachusetts,4511,Northeast
+1792-04-01,Nantucket,Massachusetts,5617,Northeast
+1792-04-01,New Bedford,Massachusetts,3549,Northeast
+1792-04-01,New Haven,Connecticut,4388,Northeast
+1792-04-01,New London,Connecticut,5150,Northeast
+1792-04-01,New York,New York,39292,Northeast
+1792-04-01,Newburyport,Massachusetts,5087,Northeast
+1792-04-01,Newport,Rhode Island,6721,Northeast
+1792-04-01,Norfolk,Virginia,3852,South
+1792-04-01,Northern Liberties,Pennsylvania,10094,Northeast
+1792-04-01,Petersburg,Virginia,2984,South
+1792-04-01,Philadelphia,Pennsylvania,31379,Northeast
+1792-04-01,Portland,Maine,3704,Northeast
+1792-04-01,Portsmouth,New Hampshire,4859,Northeast
+1792-04-01,Providence,Rhode Island,6658,Northeast
+1792-04-01,Richmond,Virginia,4206,South
+1792-04-01,Salem,Massachusetts,8267,Northeast
+1792-04-01,Savannah,Georgia,5146,South
+1792-04-01,Schenectady,New York,5289,Northeast
+1792-04-01,Southwark,Pennsylvania,6552,Northeast
+1792-04-01,Washington,District of Columbia,3210,South
+1792-04-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-05-01,Albany,New York,3916,Northeast
+1792-05-01,Alexandria,District of Columbia,4971,South
+1792-05-01,Baltimore,Maryland,16539,South
+1792-05-01,Boston,Massachusetts,19864,Northeast
+1792-05-01,Charleston,South Carolina,16934,South
+1792-05-01,Georgetown,District of Columbia,2993,South
+1792-05-01,Gloucester,Massachusetts,5316,Northeast
+1792-05-01,Hartford,Connecticut,2879,Northeast
+1792-05-01,Hudson,New York,2836,Northeast
+1792-05-01,Lancaster,Pennsylvania,4292,Northeast
+1792-05-01,Marblehead,Massachusetts,5556,Northeast
+1792-05-01,Middleborough,Massachusetts,4510,Northeast
+1792-05-01,Nantucket,Massachusetts,5617,Northeast
+1792-05-01,New Bedford,Massachusetts,3558,Northeast
+1792-05-01,New Haven,Connecticut,4385,Northeast
+1792-05-01,New London,Connecticut,5150,Northeast
+1792-05-01,New York,New York,39521,Northeast
+1792-05-01,Newburyport,Massachusetts,5096,Northeast
+1792-05-01,Newport,Rhode Island,6721,Northeast
+1792-05-01,Norfolk,Virginia,3885,South
+1792-05-01,Northern Liberties,Pennsylvania,10101,Northeast
+1792-05-01,Petersburg,Virginia,2990,South
+1792-05-01,Philadelphia,Pennsylvania,31485,Northeast
+1792-05-01,Portland,Maine,3704,Northeast
+1792-05-01,Portsmouth,New Hampshire,4864,Northeast
+1792-05-01,Providence,Rhode Island,6668,Northeast
+1792-05-01,Richmond,Virginia,4222,South
+1792-05-01,Salem,Massachusetts,8279,Northeast
+1792-05-01,Savannah,Georgia,5146,South
+1792-05-01,Schenectady,New York,5289,Northeast
+1792-05-01,Southwark,Pennsylvania,6585,Northeast
+1792-05-01,Washington,District of Columbia,3210,South
+1792-05-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-06-01,Albany,New York,3931,Northeast
+1792-06-01,Alexandria,District of Columbia,4971,South
+1792-06-01,Baltimore,Maryland,16647,South
+1792-06-01,Boston,Massachusetts,19919,Northeast
+1792-06-01,Charleston,South Carolina,16955,South
+1792-06-01,Georgetown,District of Columbia,2993,South
+1792-06-01,Gloucester,Massachusetts,5316,Northeast
+1792-06-01,Hartford,Connecticut,2886,Northeast
+1792-06-01,Hudson,New York,2845,Northeast
+1792-06-01,Lancaster,Pennsylvania,4292,Northeast
+1792-06-01,Marblehead,Massachusetts,5552,Northeast
+1792-06-01,Middleborough,Massachusetts,4510,Northeast
+1792-06-01,Nantucket,Massachusetts,5617,Northeast
+1792-06-01,New Bedford,Massachusetts,3566,Northeast
+1792-06-01,New Haven,Connecticut,4381,Northeast
+1792-06-01,New London,Connecticut,5150,Northeast
+1792-06-01,New York,New York,39749,Northeast
+1792-06-01,Newburyport,Massachusetts,5105,Northeast
+1792-06-01,Newport,Rhode Island,6722,Northeast
+1792-06-01,Norfolk,Virginia,3918,South
+1792-06-01,Northern Liberties,Pennsylvania,10108,Northeast
+1792-06-01,Petersburg,Virginia,2995,South
+1792-06-01,Philadelphia,Pennsylvania,31591,Northeast
+1792-06-01,Portland,Maine,3704,Northeast
+1792-06-01,Portsmouth,New Hampshire,4870,Northeast
+1792-06-01,Providence,Rhode Island,6678,Northeast
+1792-06-01,Richmond,Virginia,4239,South
+1792-06-01,Salem,Massachusetts,8292,Northeast
+1792-06-01,Savannah,Georgia,5146,South
+1792-06-01,Schenectady,New York,5289,Northeast
+1792-06-01,Southwark,Pennsylvania,6618,Northeast
+1792-06-01,Washington,District of Columbia,3210,South
+1792-06-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-07-01,Albany,New York,3946,Northeast
+1792-07-01,Alexandria,District of Columbia,4971,South
+1792-07-01,Baltimore,Maryland,16756,South
+1792-07-01,Boston,Massachusetts,19974,Northeast
+1792-07-01,Charleston,South Carolina,16975,South
+1792-07-01,Georgetown,District of Columbia,2993,South
+1792-07-01,Gloucester,Massachusetts,5316,Northeast
+1792-07-01,Hartford,Connecticut,2893,Northeast
+1792-07-01,Hudson,New York,2854,Northeast
+1792-07-01,Lancaster,Pennsylvania,4292,Northeast
+1792-07-01,Marblehead,Massachusetts,5549,Northeast
+1792-07-01,Middleborough,Massachusetts,4509,Northeast
+1792-07-01,Nantucket,Massachusetts,5617,Northeast
+1792-07-01,New Bedford,Massachusetts,3575,Northeast
+1792-07-01,New Haven,Connecticut,4378,Northeast
+1792-07-01,New London,Connecticut,5150,Northeast
+1792-07-01,New York,New York,39977,Northeast
+1792-07-01,Newburyport,Massachusetts,5114,Northeast
+1792-07-01,Newport,Rhode Island,6722,Northeast
+1792-07-01,Norfolk,Virginia,3951,South
+1792-07-01,Northern Liberties,Pennsylvania,10114,Northeast
+1792-07-01,Petersburg,Virginia,3001,South
+1792-07-01,Philadelphia,Pennsylvania,31696,Northeast
+1792-07-01,Portland,Maine,3704,Northeast
+1792-07-01,Portsmouth,New Hampshire,4875,Northeast
+1792-07-01,Providence,Rhode Island,6688,Northeast
+1792-07-01,Richmond,Virginia,4255,South
+1792-07-01,Salem,Massachusetts,8305,Northeast
+1792-07-01,Savannah,Georgia,5146,South
+1792-07-01,Schenectady,New York,5289,Northeast
+1792-07-01,Southwark,Pennsylvania,6651,Northeast
+1792-07-01,Washington,District of Columbia,3210,South
+1792-07-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-08-01,Albany,New York,3961,Northeast
+1792-08-01,Alexandria,District of Columbia,4971,South
+1792-08-01,Baltimore,Maryland,16864,South
+1792-08-01,Boston,Massachusetts,20029,Northeast
+1792-08-01,Charleston,South Carolina,16996,South
+1792-08-01,Georgetown,District of Columbia,2993,South
+1792-08-01,Gloucester,Massachusetts,5316,Northeast
+1792-08-01,Hartford,Connecticut,2900,Northeast
+1792-08-01,Hudson,New York,2863,Northeast
+1792-08-01,Lancaster,Pennsylvania,4292,Northeast
+1792-08-01,Marblehead,Massachusetts,5545,Northeast
+1792-08-01,Middleborough,Massachusetts,4508,Northeast
+1792-08-01,Nantucket,Massachusetts,5617,Northeast
+1792-08-01,New Bedford,Massachusetts,3584,Northeast
+1792-08-01,New Haven,Connecticut,4374,Northeast
+1792-08-01,New London,Connecticut,5150,Northeast
+1792-08-01,New York,New York,40205,Northeast
+1792-08-01,Newburyport,Massachusetts,5123,Northeast
+1792-08-01,Newport,Rhode Island,6722,Northeast
+1792-08-01,Norfolk,Virginia,3984,South
+1792-08-01,Northern Liberties,Pennsylvania,10121,Northeast
+1792-08-01,Petersburg,Virginia,3007,South
+1792-08-01,Philadelphia,Pennsylvania,31802,Northeast
+1792-08-01,Portland,Maine,3704,Northeast
+1792-08-01,Portsmouth,New Hampshire,4880,Northeast
+1792-08-01,Providence,Rhode Island,6699,Northeast
+1792-08-01,Richmond,Virginia,4271,South
+1792-08-01,Salem,Massachusetts,8318,Northeast
+1792-08-01,Savannah,Georgia,5146,South
+1792-08-01,Schenectady,New York,5289,Northeast
+1792-08-01,Southwark,Pennsylvania,6684,Northeast
+1792-08-01,Washington,District of Columbia,3210,South
+1792-08-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-09-01,Albany,New York,3976,Northeast
+1792-09-01,Alexandria,District of Columbia,4971,South
+1792-09-01,Baltimore,Maryland,16973,South
+1792-09-01,Boston,Massachusetts,20085,Northeast
+1792-09-01,Charleston,South Carolina,17016,South
+1792-09-01,Georgetown,District of Columbia,2993,South
+1792-09-01,Gloucester,Massachusetts,5316,Northeast
+1792-09-01,Hartford,Connecticut,2907,Northeast
+1792-09-01,Hudson,New York,2872,Northeast
+1792-09-01,Lancaster,Pennsylvania,4292,Northeast
+1792-09-01,Marblehead,Massachusetts,5541,Northeast
+1792-09-01,Middleborough,Massachusetts,4508,Northeast
+1792-09-01,Nantucket,Massachusetts,5617,Northeast
+1792-09-01,New Bedford,Massachusetts,3592,Northeast
+1792-09-01,New Haven,Connecticut,4370,Northeast
+1792-09-01,New London,Connecticut,5150,Northeast
+1792-09-01,New York,New York,40433,Northeast
+1792-09-01,Newburyport,Massachusetts,5133,Northeast
+1792-09-01,Newport,Rhode Island,6722,Northeast
+1792-09-01,Norfolk,Virginia,4017,South
+1792-09-01,Northern Liberties,Pennsylvania,10128,Northeast
+1792-09-01,Petersburg,Virginia,3013,South
+1792-09-01,Philadelphia,Pennsylvania,31908,Northeast
+1792-09-01,Portland,Maine,3704,Northeast
+1792-09-01,Portsmouth,New Hampshire,4885,Northeast
+1792-09-01,Providence,Rhode Island,6709,Northeast
+1792-09-01,Richmond,Virginia,4288,South
+1792-09-01,Salem,Massachusetts,8331,Northeast
+1792-09-01,Savannah,Georgia,5146,South
+1792-09-01,Schenectady,New York,5289,Northeast
+1792-09-01,Southwark,Pennsylvania,6717,Northeast
+1792-09-01,Washington,District of Columbia,3210,South
+1792-09-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-10-01,Albany,New York,3991,Northeast
+1792-10-01,Alexandria,District of Columbia,4971,South
+1792-10-01,Baltimore,Maryland,17081,South
+1792-10-01,Boston,Massachusetts,20140,Northeast
+1792-10-01,Charleston,South Carolina,17037,South
+1792-10-01,Georgetown,District of Columbia,2993,South
+1792-10-01,Gloucester,Massachusetts,5316,Northeast
+1792-10-01,Hartford,Connecticut,2914,Northeast
+1792-10-01,Hudson,New York,2881,Northeast
+1792-10-01,Lancaster,Pennsylvania,4292,Northeast
+1792-10-01,Marblehead,Massachusetts,5537,Northeast
+1792-10-01,Middleborough,Massachusetts,4507,Northeast
+1792-10-01,Nantucket,Massachusetts,5617,Northeast
+1792-10-01,New Bedford,Massachusetts,3601,Northeast
+1792-10-01,New Haven,Connecticut,4367,Northeast
+1792-10-01,New London,Connecticut,5150,Northeast
+1792-10-01,New York,New York,40662,Northeast
+1792-10-01,Newburyport,Massachusetts,5142,Northeast
+1792-10-01,Newport,Rhode Island,6722,Northeast
+1792-10-01,Norfolk,Virginia,4050,South
+1792-10-01,Northern Liberties,Pennsylvania,10134,Northeast
+1792-10-01,Petersburg,Virginia,3019,South
+1792-10-01,Philadelphia,Pennsylvania,32014,Northeast
+1792-10-01,Portland,Maine,3704,Northeast
+1792-10-01,Portsmouth,New Hampshire,4890,Northeast
+1792-10-01,Providence,Rhode Island,6719,Northeast
+1792-10-01,Richmond,Virginia,4304,South
+1792-10-01,Salem,Massachusetts,8343,Northeast
+1792-10-01,Savannah,Georgia,5146,South
+1792-10-01,Schenectady,New York,5289,Northeast
+1792-10-01,Southwark,Pennsylvania,6750,Northeast
+1792-10-01,Washington,District of Columbia,3210,South
+1792-10-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-11-01,Albany,New York,4005,Northeast
+1792-11-01,Alexandria,District of Columbia,4971,South
+1792-11-01,Baltimore,Maryland,17189,South
+1792-11-01,Boston,Massachusetts,20195,Northeast
+1792-11-01,Charleston,South Carolina,17057,South
+1792-11-01,Georgetown,District of Columbia,2993,South
+1792-11-01,Gloucester,Massachusetts,5316,Northeast
+1792-11-01,Hartford,Connecticut,2921,Northeast
+1792-11-01,Hudson,New York,2890,Northeast
+1792-11-01,Lancaster,Pennsylvania,4292,Northeast
+1792-11-01,Marblehead,Massachusetts,5534,Northeast
+1792-11-01,Middleborough,Massachusetts,4507,Northeast
+1792-11-01,Nantucket,Massachusetts,5617,Northeast
+1792-11-01,New Bedford,Massachusetts,3610,Northeast
+1792-11-01,New Haven,Connecticut,4363,Northeast
+1792-11-01,New London,Connecticut,5150,Northeast
+1792-11-01,New York,New York,40890,Northeast
+1792-11-01,Newburyport,Massachusetts,5151,Northeast
+1792-11-01,Newport,Rhode Island,6723,Northeast
+1792-11-01,Norfolk,Virginia,4083,South
+1792-11-01,Northern Liberties,Pennsylvania,10141,Northeast
+1792-11-01,Petersburg,Virginia,3024,South
+1792-11-01,Philadelphia,Pennsylvania,32120,Northeast
+1792-11-01,Portland,Maine,3704,Northeast
+1792-11-01,Portsmouth,New Hampshire,4895,Northeast
+1792-11-01,Providence,Rhode Island,6730,Northeast
+1792-11-01,Richmond,Virginia,4321,South
+1792-11-01,Salem,Massachusetts,8356,Northeast
+1792-11-01,Savannah,Georgia,5146,South
+1792-11-01,Schenectady,New York,5289,Northeast
+1792-11-01,Southwark,Pennsylvania,6783,Northeast
+1792-11-01,Washington,District of Columbia,3210,South
+1792-11-01,York,Pennsylvania,2503,Northeast
+
+33
+1792-12-01,Albany,New York,4020,Northeast
+1792-12-01,Alexandria,District of Columbia,4971,South
+1792-12-01,Baltimore,Maryland,17298,South
+1792-12-01,Boston,Massachusetts,20250,Northeast
+1792-12-01,Charleston,South Carolina,17078,South
+1792-12-01,Georgetown,District of Columbia,2993,South
+1792-12-01,Gloucester,Massachusetts,5316,Northeast
+1792-12-01,Hartford,Connecticut,2928,Northeast
+1792-12-01,Hudson,New York
