@@ -1,8 +1,8 @@
 /******************************************************************************
  *  Compilation:  javac Graph.java
- *  Execution:    java Graph < input.txt
- *  Dependencies: ST.java SET.java In.java StdOut.java
- *  Data files:   https://introcs.cs.princeton.edu/java/45graph/tinyGraph.txt
+ *  Execution:    java Graph input.txt
+ *  Dependencies: ST.java SET.java
+ *  Data files:   tinyGraph.txt
  *
  *  Undirected graph data type implemented using a symbol table
  *  whose keys are vertices (String) and whose values are sets
@@ -15,7 +15,7 @@
  *   - Adjacency lists store many different copies of the same
  *     String. You can use less memory by interning the strings.
  *
- *  % java Graph < tinyGraph.txt
+ *  % java Graph tinyGraph.txt
  *  A: B C G H
  *  B: A C H
  *  C: A B G
@@ -29,6 +29,10 @@
  *  H: A B
  *
  ******************************************************************************/
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 
 /**
  *  The {@code Graph} class represents an undirected graph of vertices
@@ -66,13 +70,20 @@ public class Graph {
      */
     public Graph(String filename, String delimiter) {
         st = new ST<String, SET<String>>();
-        In in = new In(filename);
-        while (in.hasNextLine()) {
-            String line = in.readLine();
-            String[] names = line.split(delimiter);
-            for (int i = 1; i < names.length; i++) {
-                addEdge(names[0], names[i]);
+
+        try {
+            Scanner in = new Scanner(new File(filename));
+            while (in.hasNext()) {
+                String line = in.nextLine();
+                String[] names = line.split(delimiter);
+                for (int i = 1; i < names.length; i++) {
+                    addEdge(names[0], names[i]);
+                }
             }
+            in.close();
+        } catch (FileNotFoundException f) {
+            System.out.println("File not found.");
+            System.exit(0);
         }
     }
 
@@ -208,13 +219,8 @@ public class Graph {
     public static void main(String[] args) {
 
         // create graph
-        Graph graph = new Graph();
-        while (!StdIn.isEmpty()) {
-            String v = StdIn.readString();
-            String w = StdIn.readString();
-            graph.addEdge(v, w);
-        }
-
+        Graph graph = new Graph(args[0], " ");
+        
         // print out graph
         System.out.println(graph);
 
